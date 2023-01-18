@@ -1,7 +1,7 @@
 {
   "name": "digital-business-card",
   "version": "0.1.0",
-  "homepage": "https://LuisFernandoVillalon.github.io/digital-business-card",
+  "homepage": "https://luisfernandovillalon.github.io/digital-business-card",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
