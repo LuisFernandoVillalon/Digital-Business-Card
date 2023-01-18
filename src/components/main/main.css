@@ -62,7 +62,7 @@
 }
 .subTitle {
     display: flex;
-    justify-content: start;
+    justify-content: flex-start;
     color: #F5F5F5;
     padding-left: 15%;
     font-size: 1.3rem;
@@ -71,7 +71,7 @@
 }
 .subText {
     display: flex;
-    justify-content: start;
+    justify-content: flex-start;
     align-items: center;
     margin-left: 15%;
     margin-right: 15%;
