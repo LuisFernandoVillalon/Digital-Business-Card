@@ -6,7 +6,7 @@ import Main from './components/main/main.js';
 function App() {
   return (
     <div className="App">
-      <img className="selfieDimensions" src={selfie} alt="Picture of myself" />
+      <img className="selfieDimensions" src={selfie} alt="A selfie." />
       <Main />
     </div>
   );
