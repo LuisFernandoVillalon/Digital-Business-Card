@@ -29,7 +29,7 @@ function DisplayButtons() {
             
             <button onClick={emailUser} className="emailBtn"><MdEmail className = "btnIcon" />Email</button>
             
-            <a target='_blank' href={"https://www.linkedin.com/in/luis-villalon/"}>
+            <a target='_blank' rel="noreferrer" href={"https://www.linkedin.com/in/luis-villalon/"}>
                 <button className="linkedInBtn"><FaLinkedin className = "btnIcon" />LinkedIn</button>
             </a>
         </div>
@@ -58,16 +58,16 @@ function DisplayAboutInsterests() {
 function DisplayeFooter() {
     return (
         <div className="footer">
-            <a target='_blank' href={"https://twitter.com/suolajboii654"}>
+            <a target='_blank' rel="noreferrer" href={"https://twitter.com/suolajboii654"}>
                 <FaTwitterSquare className="icon" />
             </a>
-            <a target='_blank' href={"https://www.facebook.com/salvadoryluis"}>
+            <a target='_blank' rel="noreferrer" href={"https://www.facebook.com/salvadoryluis"}>
                 <FaFacebookSquare className="icon" />
             </a>
-            <a target='_blank' href={"https://www.instagram.com/luisv.12_/"}>
+            <a target='_blank' rel="noreferrer" href={"https://www.instagram.com/luisv.12_/"}>
                 <FaInstagramSquare className="icon" />
             </a>
-            <a target='_blank' href={"https://github.com/LuisFernandoVillalon"}>
+            <a target='_blank' rel="noreferrer" href={"https://github.com/LuisFernandoVillalon"}>
                 <FaGithubSquare className="icon" />
             </a>
         </div>
