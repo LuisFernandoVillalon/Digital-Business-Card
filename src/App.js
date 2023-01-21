@@ -6,8 +6,10 @@ import Main from './components/main/main.js';
 function App() {
   return (
     <div className="App">
-      <img className="selfieDimensions" src={selfie} alt="A selfie." />
-      <Main />
+      <div className="card-container">
+        <img className="selfieDimensions" src={selfie} alt="A selfie." />
+        <Main />
+      </div>
     </div>
   );
 }

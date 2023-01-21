@@ -53,7 +53,7 @@
 .btnContainer {
     display: flex;
     justify-content: space-evenly;
-    margin: 15px 15px;
+    margin: 15px;
 }
 .mainText {
     display: flex;
