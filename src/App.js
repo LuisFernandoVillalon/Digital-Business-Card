@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <div className="card-container">
-        <img className="selfieDimensions" src={selfie} alt="A selfie." />
+        <img src={selfie} alt="A selfie." />
         <Main />
       </div>
     </div>
